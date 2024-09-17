@@ -46,6 +46,7 @@
   "dependencies": {
     "@floating-ui/dom": "1.6.10",
     "highlight.js": "11.10.0",
+    "joi": "^17.13.3",
     "share": "github:orjuela45/share-sort-it"
   }
 }
